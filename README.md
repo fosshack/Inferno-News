@@ -1,10 +1,6 @@
-Trucko - Old Repo
+Inferno
 ======
 
-
-This repository is for Old Trucko
-
-----------
 
 
 Initialisation
